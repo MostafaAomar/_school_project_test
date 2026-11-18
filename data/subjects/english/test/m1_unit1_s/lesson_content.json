@@ -1,0 +1,23 @@
+{
+  "textContent": {
+    "ar": "هذا درس تجريبي. يظهر كتاب الطالب في القسم الذي بالأسفل.",
+    "en": "This is a test lesson. The student book appears in the section below."
+  },
+  "videoUrl": "",
+  "audioUrl": "",
+  "audioType": "audio/mp3",
+  "externalLinks": [
+    {
+      "type": "text",
+      "url": "data/subjects/english/test/index.html?page=1&to=3",
+      "text": {
+        "ar": "افتح كتاب الطالب في صفحة كاملة",
+        "en": "Open the student book"
+      },
+      "title": {
+        "ar": "كتاب الطالب",
+        "en": "Student book"
+      }
+    }
+  ]
+}
