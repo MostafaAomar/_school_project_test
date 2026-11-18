@@ -11,7 +11,7 @@
   /* ===== 1) SETTINGS: edit only this part ===== */
 
   // Where the exported student book is stored on your site (relative to your index.html).
-  var BOOK_URL = 'data/subjects/english/test/index.html';
+  var BOOK_URL = 'data/subjects/english/test/test_lessons.json';
 
   // Lesson title (exactly as it appears in the lesson page)  ->  which book pages belong to it.
   // from / to are 1-based page numbers of the book. Leave "to" out to show until the last page.
